@@ -1,0 +1,10 @@
+<resources>
+    <string name="facebook_app_id">314576613280103</string>
+
+    <string name="app_name">Foody</string>
+    <string name="loading">Đang tải</string>
+    <string name="version">Phiên bản</string>
+
+    <string name="login">Đăng nhập</string>
+    <string name="or">Hoặc</string>
+</resources>
